@@ -60,7 +60,7 @@ namespace BattleGame
         public int Range { get; private set; }
         public int Power { get; private set; }
 
-        public Archer() : base("Лучник", 60, 15, 5, 120)
+        public Archer() : base("Лучник", 60, 20, 0, 120)
         {
             Range = 3;
             Power = 25;
@@ -202,7 +202,7 @@ namespace BattleGame
             int maxPositions = Math.Max(_army1.Units.Count, _army2.Units.Count);
             bool anyAbilityUsed = false;
 
-            for (int pos = 0; pos < maxPositions; pos++)
+            for (int pos = 1; pos < maxPositions; pos++)
             {
                 if (pos < _army1.Units.Count && _army1.Units[pos] is ISpecialAbility sa1 && _army1.Units[pos].IsAlive)
                 {

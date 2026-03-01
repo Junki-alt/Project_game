@@ -1,0 +1,14 @@
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\bin\Debug\net10.0\BattleGame.exe
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\bin\Debug\net10.0\BattleGame.deps.json
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\bin\Debug\net10.0\BattleGame.runtimeconfig.json
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\bin\Debug\net10.0\BattleGame.dll
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\bin\Debug\net10.0\BattleGame.pdb
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\obj\Debug\net10.0\BattleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\obj\Debug\net10.0\BattleGame.AssemblyInfoInputs.cache
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\obj\Debug\net10.0\BattleGame.AssemblyInfo.cs
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\obj\Debug\net10.0\BattleGame.csproj.CoreCompileInputs.cache
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\obj\Debug\net10.0\BattleGame.dll
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\obj\Debug\net10.0\refint\BattleGame.dll
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\obj\Debug\net10.0\BattleGame.pdb
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\obj\Debug\net10.0\BattleGame.genruntimeconfig.cache
+C:\Users\karaz\Source\Repos\Software_architecture_design\BattleGame\obj\Debug\net10.0\ref\BattleGame.dll
